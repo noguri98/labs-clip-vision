@@ -1,3 +1,4 @@
 task.md
+__pycache__
 
 models/onnx/*
